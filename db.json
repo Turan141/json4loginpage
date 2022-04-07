@@ -1,4 +1,11 @@
-{
-  "login": "steve.jobs@example.com",
-  "password": "password"
+{      
+
+ "logpass":  {      
+
+        "login": "steve.jobs@example.com", 
+
+        "password": "password",         
+
+        }
+
 }
